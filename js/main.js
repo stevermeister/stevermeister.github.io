@@ -26,4 +26,7 @@
   if (Math.random() * 10 > 8) {
     doWriting();
   }
+
+  window.location = 'https://github.com/stevermeister';
+  
 })();
